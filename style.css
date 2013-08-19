@@ -23,7 +23,7 @@ ul, ol {
 
 body {
     background-color: #FF4040;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Open Sans', Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     font-size: x-small;
     color: #666666;
@@ -32,14 +32,14 @@ body {
 
 h1 {
     font-size: 5em;
-    font-family: 'Rancho', Arial;
+    font-family: 'Open Sans', Arial, sans-serif;
     text-align: center;
     color: #2e2e2e;
 }
 
 h2 {
     font-size: 4em;
-    font-family: 'Rancho', Arial;
+    font-family: 'Open Sans', Arial, sans-serif;
     text-align: center;
     padding-top: 10px;
     color: #2e2e2e;
