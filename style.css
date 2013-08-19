@@ -102,3 +102,21 @@ h2 {
     border-radius: 0!important;
     background: rgba(255,255,255,.2)!important;
 }
+
+#mobile {
+    visibility: hidden;
+    margin: 0 auto;
+    width: 100%;
+}
+
+@media only screen and (max-width: 565px) {
+
+    #hide {
+        visibility: hidden;
+    }
+
+    #mobile {
+        visibility: visible;
+    }
+
+}
